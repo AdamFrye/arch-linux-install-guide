@@ -1,1 +1,0 @@
-# arch-linux-install-guide
